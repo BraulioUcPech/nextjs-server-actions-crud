@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+![image](https://github.com/BraulioUcPech/nextjs-server-actions-crud/assets/84982909/5c81c44f-4ac2-4d4d-ba3f-6d6c729441cc)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
