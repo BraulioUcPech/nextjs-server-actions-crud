@@ -39,4 +39,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # nextjs-server-actions-crud
+
+Edit
 ![alt text](image.png)
+
+Create Task
+![alt text](image-1.png)
+
+ALL IN LIGHT
+![alt text](image-2.png)
