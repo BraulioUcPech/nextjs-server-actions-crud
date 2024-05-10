@@ -1,10 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
 
 ## IMAGE
 ![image](https://github.com/BraulioUcPech/nextjs-server-actions-crud/assets/84982909/5c81c44f-4ac2-4d4d-ba3f-6d6c729441cc)
 
+## Getting Started
 First, run the development server:
 
 ```bash
